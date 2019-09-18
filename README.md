@@ -5,5 +5,5 @@ This is the table of contents of my Learning Journal.  My Learning Journal is th
 1. [Growth Mindset](https://amye29.github.io/learning-journal/)
 2. [What is a Text Editor?](https://amye29.github.io/learning-journal/markdown.html)
 3. [git and Github](https://amye29.github.io/learning-journal/leasson3git.html)
-4. [html notes](https://amye29.github.io/html-css-js/README.html)
+4. [html notes](https://amye29.github.io/html-css-js/html.html)
 5. [web site](https://amye29.github.io/html-css-js/)
